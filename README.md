@@ -1,5 +1,5 @@
 <h1 align="center">Selamlar Bendeniz, Muharrem Öğdü</h1>
-<h3 align="center">Karışık Var Mı?</h3>
+<h3 align="center">Her türlü format atılır 5 dakikada teslim edilir.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knodtr&label=Profile%20views&color=0e75b6&style=flat" alt="knodtr" /> </p>
 
